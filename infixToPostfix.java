@@ -4,7 +4,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class GFG {
+class infToPostfix {
     private static int preced(char op)
     {
         switch(op)
